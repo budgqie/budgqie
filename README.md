@@ -1,8 +1,8 @@
 <div align="center">
-  place holder doodle until i make something proper
+  
 </div>
 <div align="center">
-  <img alt="" src= https://files.catbox.moe/5itara.webp>
+  <img alt="" src= https://files.catbox.moe/mz97wm.gif>
 </div>
 <div align="center"> 
 <a href="https://rentry.co/budgie">rentry.co / budgie</a>
